@@ -12,15 +12,15 @@ This ***sleep calculator***  can appear a helpful if you need to record your sle
 
 Build on **JavaScript**.
 
+## Functions used on this project :
+> - getSleepHours();  
+> - getActualSleepHours();  
+> - calculateSleepDebt()  
+>>- actualSleepHours  
+>>- idealSleepHours
 
-# Check out my [website](https://www.wpmaestro.net).
+# Check out my [website](https://www.wpmaestro.net).  
+**Contact** : <wpmaestro@gmail.com>
 
 ---
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.  
->>>The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->>>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->>>>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->>>>>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
