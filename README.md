@@ -19,7 +19,7 @@ Build on **JavaScript**.
 >>- actualSleepHours  
 >>- idealSleepHours
 
-# Check out my [website](https://www.wpmaestro.net).  
+# Check out my [website](https://www.wpmaestro.net 'wpmaestro').  
 **Contact** : <wpmaestro@gmail.com>
 
 ---
