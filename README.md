@@ -10,5 +10,5 @@ This ***sleep calculator***  can appear a helpful if you need to record your sle
 
 Build on **JavaScript**.
 
-# Check out my [website](https://www.wpmaestro.net)
+# Check out my [website](https://www.wpmaestro.net).
 ---
